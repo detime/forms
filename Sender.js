@@ -2,8 +2,6 @@
 **Created by detime001**
 */
 
-
-
 let myLocaltion = location.href;
 myLocaltion = myLocaltion.replace('/viewform', '/formResponse');
 console.log(myLocaltion);
